@@ -1,0 +1,8 @@
+.col{
+    background-color: rgb(66, 66, 249);
+    margin: 1px solid white;
+    height: 100px;
+}
+.row{
+    height: 100px;
+}
