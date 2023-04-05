@@ -14,3 +14,8 @@
     background-color: rgb(52, 52, 250);
     border: white 1px solid;
 }
+.box-1{
+    width: 80%;
+    height: 80%;
+    background-color: green;
+}
